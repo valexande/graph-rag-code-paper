@@ -1,0 +1,21 @@
+(1) https://learn.deeplearning.ai/courses/knowledge-graphs-rag/lesson/1/introduction
+DeepLearning.AI - Learning PlatformDeepLearning.AI - Learning Platform
+Knowledge Graphs for RAG - DeepLearning.AI
+
+(2) https://neo4j.com/blog/genai/graphrag-manifesto/
+
+The GraphRAG Manifesto: Adding Knowledge to GenAI. Linked to (1)
+
+(3) https://medium.com/neo4j/implementing-from-local-to-global-graphrag-with-neo4j-and-langchain-constructing-the-graph-73924cc5bab4
+
+(4) https://neo4j.com/blog/news/graphrag-ecosystem-tools/
+
+Get Started With GraphRAG: Neo4j’s Ecosystem Tools
+
+(5) https://graspologic-org.github.io/graspologic/latest/tutorials/index.html#embedding
+
+maybe interesting for graph-rag applications in order to compute a the subgraphs for local answers, that contribute to the final answer
+
+(6) https://github.com/neo4j/neo4j-graphrag-python/tree/main/examples 
+
+maybe the most important link when it comes to rag applications. Its the main kg-rag repository of neo4j
